@@ -52,6 +52,15 @@ Features:
 
 * [![.NET][.NET]][framework-url]
 
+<!-- CHANGELOG -->
+## Changelog
+
+### v2.1.0
+* New: Batch mode
+    * Check `Batch (scan folder + subfolders)` and point Input to a folder: every `.iso` is found recursively and processed one by one.
+    * Works in all modes: Extract (one subfolder per ISO), Rewrite, List, and Create (one ISO per subfolder).
+* Credits: batch mode by [@bvlxtelli](https://github.com/bvlxtelli)
+
 <!-- GETTING STARTED -->
 ## Getting Started
 

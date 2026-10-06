@@ -24,7 +24,7 @@ namespace extract_xiso_gui
     public partial class MainWindow : Window
     {
         // Info + links
-        public static string guiVersion = "2.0.2";
+        public static string guiVersion = "2.1.0";
         public static string githubLink = "https://github.com/KilLo445/extract-xiso-gui";
         string verLink = "https://raw.githubusercontent.com/KilLo445/extract-xiso-gui/master/extract-xiso-gui/version.txt";
         string xisoDL = "https://github.com/KilLo445/extract-xiso-gui/raw/master/extract-xiso-gui/extract-xiso.exe";
