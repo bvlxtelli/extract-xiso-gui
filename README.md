@@ -44,6 +44,8 @@ Features:
     * Delete old ISO after rewrite.
     * Disable auto .xbe patching (Not recommended).
     * Skip $SystemUpdate folder.
+* Batch
+    * Scan a folder (including subfolders) for .iso files and process them one by one.
 
 
 ### Built With
@@ -98,6 +100,10 @@ Links for all images used in extract-xiso-gui
   - [@KilLo445](https://twitter.com/KilLo445)
 - More
   - [My Links](https://killo.club/links)
+
+## Credits
+
+- Batch mode by [@bvlxtelli](https://github.com/bvlxtelli)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
